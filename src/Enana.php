@@ -24,6 +24,7 @@ class Enana
         }else {
             return $this->puntosVida;
         }
+        
     }
 
     public function heridaGrave(){
