@@ -16,6 +16,7 @@ class Enana
 
     public function heridaLeve(){
         #Se le quitan 10 puntos de vida a la Enana y además se cambia el valor de situacion (si fuera necesario)
+        
     }
 
     public function heridaGrave(){
