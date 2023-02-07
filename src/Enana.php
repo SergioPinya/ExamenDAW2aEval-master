@@ -29,7 +29,7 @@ class Enana
         }
 
     }
-
+/* 
     public function heridaGrave(){
         #Se le quita toda la vida que posea hasta tener 0 puntos de vida y cambiarle la situacion a limbo
     }
@@ -42,6 +42,6 @@ class Enana
 
     public function pocimaExtra(){
         #Única manera de devolver a la vida del limbo. Además se otorgarán 50 puntos de vida.
-    }
+    } */
 }
 ?>
